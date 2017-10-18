@@ -285,7 +285,4 @@ Bược 3: có thể hiểu đơn giản là thay thế 5 = 5.2
 còn rebase có thể làm thay đổi lịch sự. Anh có test thì không phải lúc nào cũng làm thay đổi lịch sử của commit. 
 Nếu có thay dổi cũng k phải là thay đổi 100%. mà nó chỉ xóa đi commit mà thực hiển GIt MERGED khi thực hiện trên trình duyệt merged pull request mà thôi. Còn các commit mà chúng ta commit đẩy lên không bị xóa đi
 
-
-https://docs.google.com/document/d/14pucvbgXTPdvRvoLszFqXKraOzUVWRGobpA8iHj7aeE/edit
-
 phải git add. rồi mới di chuyển code sang nhánh khác được
